@@ -1,5 +1,5 @@
 
-# Builds a docker image named 'more-nlp-notebook',
+# Builds a docker image named 'more-nlppt-notebook',
 # using the 'Dockerfile' in the current directory.
-docker build --rm -t jimtyhurst/more-nlp-notebook:latest .
+docker build --rm -t jimtyhurst/more-nlppt-notebook:latest .
 
